@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "deploy": "ng build -prod -sm -ec -bh /moniTorn/ && gh-pages -d dist",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
