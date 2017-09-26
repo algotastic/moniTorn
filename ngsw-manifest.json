@@ -1,0 +1,21 @@
+{
+  "static": {
+    "urls": {
+      "https://algotastic.github.io/moniTorn/glyphicons-halflings-regular.f4769f9bdb7466be6508.eot": "86b6f62b7853e67d3e635f6512a5a5efc58ea3c3",
+      "https://algotastic.github.io/moniTorn/glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf": "44bc1850f570972267b169ae18f1cb06b611ffa2",
+      "https://algotastic.github.io/moniTorn/glyphicons-halflings-regular.448c34a56d699c29117a.woff2": "ca35b697d99cae4d1b60f2d60fcd37771987eb07",
+      "https://algotastic.github.io/moniTorn/glyphicons-halflings-regular.89889688147bd7575d63.svg": "de51a8494180a6db074af2dee2383f0a363c5b08",
+      "https://algotastic.github.io/moniTorn/glyphicons-halflings-regular.fa2772327f55d8198301.woff": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f",
+      "https://algotastic.github.io/moniTorn/polyfills.81bfb9793231bc1ae345.bundle.js": "f00c8e2e8fdb6dfab76c1ab43efb7fa3be20f4d6",
+      "https://algotastic.github.io/moniTorn/main.3189c0220dbfb40c3949.bundle.js": "7af8f77503a4671213bbc5e203f4614054dd4182",
+      "https://algotastic.github.io/moniTorn/sw-register.6819cd2c5fa25470ecf2.bundle.js": "50d549edfbd188ed199d8d0b079afa593202e3ea",
+      "https://algotastic.github.io/moniTorn/vendor.e73e11bdf4dadefca434.bundle.js": "8abfd7e0024b4c8359830bbf26772b5aaf360378",
+      "https://algotastic.github.io/moniTorn/inline.fee21e40abd57f117da4.bundle.js": "cf6bb7652f0962ad5893789915011b2bcb414982",
+      "https://algotastic.github.io/moniTorn/styles.263b3dbb63139d15b883.bundle.css": "57e15ce7d07fbe5a01826bec3005c889815e1c04",
+      "https://algotastic.github.io/moniTorn/assets/js/bootstrap.min.js": "430a443d74830fe9be26efca431f448c1b3740f9",
+      "https://algotastic.github.io/moniTorn/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+      "https://algotastic.github.io/moniTorn/index.html": "96d6a9f620dbef3b9aafb59e402701ec6fb1078e"
+    },
+    "_generatedFromWebpack": true
+  }
+}
